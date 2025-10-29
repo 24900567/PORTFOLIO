@@ -1,4 +1,4 @@
-# DHINESH — Personal Portfolio
+# DHINESH S— Personal Portfolio
 
 Welcome to my professional portfolio repository. I'm DHINESH, a second-year Information Technology student at Saveetha Engineering College, passionate about building ethical, transparent, and impactful technology. This portfolio showcases my skills, projects, and career goals — including my flagship AI tool, DeepShield.
 
