@@ -11,7 +11,7 @@ Welcome to my professional portfolio repository. I'm DHINESH, a second-year Info
 - 🧠 Deep Learning Intern at Approtech R&D Solutions  
 - 💻 Skilled in Python, SQL, Streamlit, OpenCV, DeepFace, Android Development  
 - ☁️ Experienced in cloud deployment (Streamlit Cloud, Render.com, AWS EBS/EFS)  
-- ✍️ Creative writer in classical Tamil for social media engagement
+
 
 ---
 
@@ -40,7 +40,6 @@ Developed a transformer-based NLG model to identify fake news and support ethica
 - **Mobile & UI Development**: Android (RecyclerView, ConstraintLayout), Python  
 - **Cloud Deployment**: Streamlit Cloud, Render.com, AWS EBS/EFS  
 - **System Troubleshooting**: Linux CLI, server debugging  
-- **Creative Language**: Classical Tamil poetry for social media
 
 ---
 
